@@ -1,0 +1,899 @@
+    1  pwd
+    2  ls
+    3  cd
+    4  ls
+    5  ~/.oh-my-zsh
+    6  pwd
+    7  ls
+    8  cd
+    9  ls
+   10  ls -la
+   11  cd .oh-my-zsh
+   12  ls
+   13  cd themes
+   14  ls
+   15  ZSH_THEME=awesomepanda.zsh-theme
+   16  ls
+   17  cd
+   18  ls
+   19  ls -R
+   20  pwd
+   21  ls
+   22  cd Documents
+   23  ls
+   24  cd cardGame
+   25  ls
+   26  cd images
+   27  ls
+   28  cd
+   29  cd Pictures
+   30  ls
+   31  rm penguin.jpeg
+   32  ls
+   33  cd 
+   34  cd Documents
+   35  ls
+   36  cd cardGame
+   37  ls
+   38  cd images
+   39  ls
+   40  cp ~/Pictures/three.svg .
+   41  ls
+   42  cp ~/Pictures/two.svg .
+   43  ls
+   44  mv serveimage.svg hammer.svg
+   45  ls
+   46  cd ../../../Pictures
+   47  ls
+   48  cd ..
+   49  cd Downloads
+   50  ls
+   51  cd
+   52  cd Documents/cardGame
+   53  cd images
+   54  ls
+   55  cp ~/Downloads/*.svg .
+   56  ls
+   57  pwd
+   58  git status
+   59  .git
+   60  pwd
+   61  cd Desktop
+   62  ls
+   63  git clone https://github.com/TheBlaqHulk/jsCardGame
+   64  ls
+   65  cd jsCardGame
+   66  ls
+   67  cp ~/Documents/cardGame/* .
+   68  cp -r ~/Documents/cardGame/* .
+   69  ls
+   70  vi game.html
+   71  git status
+   72  pwd
+   73  ls
+   74  mkdir images && cd images
+   75  ls
+   76  pwd
+   77  cd ~/Documents
+   78  ls
+   79  cd ../Downloads
+   80  ls
+   81  cd 
+   82  cd Desktop/jsCardGame
+   83  ls
+   84  cd images
+   85  cp ~/Downloads/*.jpg
+   86  cp ~/Downloads/*.jpg .
+   87  ls
+   88  cp ~/Downloads/*.jpeg .
+   89  ls
+   90  cd .
+   91  ls
+   92  cd ..
+   93  pwd
+   94  ls
+   95  touch index.html style.css script.js
+   96  ls
+   97  clear
+   98  pwd
+   99  clear
+  100  git status
+  101  ls
+  102  git add .
+  103  git status
+  104  git commit -m "needs a lot of work"
+  105  git config --global user.email "dumi.claude@gmail.com"
+  106  git config --global user.name "TheBlaqHulk"
+  107  ls
+  108  git commit -m "needs a lot of work"
+  109  rm images/2.jpg
+  110  git status
+  111  git add index.html 
+  112  git status
+  113  git commit -m "pics matched"
+  114  ls
+  115  git push
+  116  git push origin master
+  117  git diff
+  118  clear
+  119  exit
+  120  pwd
+  121  exit
+  122  close
+  123  exit
+  124  pwd
+  125  cd Desktop/2gardGame
+  126  ls
+  127  mkdir images
+  128  touch index.html script.js style.css
+  129  ls
+  130  git status
+  131  rm *
+  132  ls
+  133  cd cardGame
+  134  ls
+  135  cd ..
+  136  ls
+  137  pwd
+  138  rm -rf cardGame
+  139  ls
+  140  cp ~/Documents/cardgame/* .
+  141  cp -r ~/Documents/cardgame/* .
+  142  ls
+  143  git status
+  144  git add .
+  145  ls
+  146  git status
+  147  git commit -m "It finally works"
+  148  git status
+  149  git push origin master
+  150  pwd
+  151  cd Desktop/jsCardGame
+  152  ls
+  153  git status
+  154  ls
+  155  git add .
+  156  git status
+  157  git commit -m "commented"
+  158  git add 
+  159  git push
+  160  git add .
+  161  git status
+  162  cd Desktop/jsCardGame
+  163  ls
+  164  cat script.js
+  165  clear
+  166  git status
+  167  git add script.js
+  168  git status
+  169  git commit -m "commented"
+  170  git push
+  171  git status
+  172  pwd
+  173  ls
+  174  git add .
+  175  git status
+  176  git commit -m "commented and functional"
+  177  git push origin master
+  178  clear
+  179  git status
+  180  clear
+  181  pwd
+  182  ls
+  183  cd Music
+  184  ls
+  185  cd Kanye_West-G.O.O.D._Fridays-2010
+  186  ls
+  187  play
+  188  launch 14-kanye_west-chain_heavy_\(feat._talib_kweli_and_consequence\).mp3
+  189  cd ~
+  190  pwd
+  191  clear
+  192  sudo apt install moc
+  193  sudo apt install mocp
+  194  clear
+  195  sudo apt install mocp
+  196  exit
+  197  passwd
+  198  shutdown
+  199  passwd
+  200  shutdown
+  201  jasmine
+  202  sudo apt update ^[[200~sudo apt install python3-pip~
+  203  sudo apt update
+  204  sudo apt update sudo apt install python3-pip 
+  205  sudo apt update^[[200~sudo apt install python3-pip~
+  206  sudo apt update sudo apt install python3-pip
+  207  sudo apt update
+  208  sudo apt install python3-pip
+  209  pip3 install numpy pander seaborn matplotlib
+  210  pip3 install pandar seaborn matplotlib
+  211  pip3 install pandas seaborn matplotlib
+  212  pip3
+  213  pwd
+  214  cd Desktop
+  215  sudo apt update
+  216  mkdir umuzi
+  217  cd ..
+  218  sudo apt update
+  219  sudo apt upgrade
+  220  pwd
+  221  cd Desktop
+  222  cd umuzi_challeng
+  223  git add *
+  224  .git
+  225  git add .
+  226  https://github.com/tntini/Umuzi_challenge.git
+  227  git add .
+  228  git clone https://github.com/tntini/Umuzi_challenge.git me
+  229  ls
+  230  w
+  231  ls
+  232  ls /
+  233  pwd
+  234  cd recruit_wil
+  235  mkdir recruit_wil
+  236  cd wil
+  237  cls
+  238  pwd
+  239  mkdir outer
+  240  cd outer
+  241  mkdir inner
+  242  cd inner
+  243  pwd
+  244  ../
+  245  mkdir -p outer/inner
+  246  pwd
+  247  inner cd /
+  248  mmkdir outer
+  249  mkdir outer
+  250  cls
+  251  clear
+  252  -$ cd learning_unix/
+  253  cd..
+  254  cd ..
+  255  cd ../..
+  256  cd../../../tmp
+  257  pwd
+  258  mkdir wil
+  259  mkdir outer wil
+  260  cd wil
+  261  mkdir inner
+  262  cd../../..tmp
+  263  cd../
+  264  cd..
+  265  cd /tmp
+  266  cd..
+  267  cd../
+  268  pwd
+  269  cd../wil
+  270  cd/wil
+  271  outer$ cd /
+  272  /$ cd home
+  273  cd../
+  274  cd..
+  275  cd /
+  276  pwd
+  277  cd ~
+  278  pwd
+  279  cd
+  280  pwd
+  281  ~$ cd /
+  282  cd /
+  283  /cd ~/wil
+  284  cd ~/wil
+  285  ~
+  286  cd../
+  287  ../
+  288  pwd
+  289  ls
+  290  lls
+  291  ls../../
+  292  la -l/wil
+  293  ls -l/wil
+  294  ls -l /wil
+  295  ls -l /home
+  296  ls -l
+  297  ls -R
+  298  ls -l -t -r
+  299  ls -lh
+  300  clear
+  301  cd../
+  302  ../
+  303  ~
+  304  pwd
+  305  clear
+  306  man ls
+  307  ls
+  308  pwd
+  309  mkdir  workspace
+  310  cd workspace
+  311  ls
+  312  touch READ.md
+  313  ls
+  314  open READ.MD
+  315  cp READ.md CHANGELOG.md
+  316  touch exercise.md
+  317  cd ../../../tmp
+  318  ls
+  319  pwd
+  320  ../
+  321  cd../
+  322  cd..
+  323  cd ..
+  324  open workspace
+  325  ls
+  326  ~ workspace
+  327  pwd
+  328  ls
+  329  cd workspace
+  330  ls
+  331  ~
+  332  ls
+  333  ls -R
+  334  clear
+  335  cd workspace
+  336  ls
+  337  mv exercise.md /tmp
+  338  pwd
+  339  cwd
+  340  echo $PATH
+  341  LS
+  342  ls
+  343  ..
+  344  cd workspace
+  345  rm exercise.dm
+  346  ../
+  347  cd tmp
+  348  pwd
+  349  ls
+  350  cd
+  351  cd workspace
+  352  touch exercise.md
+  353  ls
+  354  rm exercise.md
+  355  ls
+  356  ../
+  357  pwd
+  358  clear
+  359  touch umuzi.md
+  360  ..
+  361  pwd
+  362  ../
+  363  `\n`
+  364  ~
+  365  ls
+  366  rm umuzi.md
+  367  ls
+  368  cd wil
+  369  mkdir task_2
+  370  cd task_2
+  371  touch umuzi.md
+  372  recruits.md
+  373  touch recruits.md
+  374  touch cohort.md
+  375  ls
+  376  cd umuzi
+  377  cd umuzi.md
+  378  ls
+  379  cd../umuzi.md
+  380  rm umuzi.md
+  381  rm exercise.md
+  382  ls
+  383  rm cohort.md
+  384  rm recruits.md
+  385  ls
+  386  cat> umuzi.md recruits.md xcohort.md
+  387  cat> umuzi.md 
+  388  rm umuzi.md
+  389  cat> umuzi.md
+  390  cat> recruits.md
+  391  cat> cohort.md
+  392  ls
+  393  cat umuzi.md recruits.md cohort.md
+  394  cat umuzi.md recruits.md cohort.md >> summary.md
+  395  cat summary.md >>
+  396  ls
+  397  cd summary.md
+  398  open summary
+  399  cat >> summary.md
+  400  cat summary.md
+  401  locate umuzi
+  402  locate -c
+  403  locate -c [umuzi]
+  404  locate umuzi cat>> search.md
+  405  ls
+  406  ls -l search.md
+  407  cat search.md
+  408  clear
+  409  ../
+  410  pwd
+  411  cd documents
+  412  cd Documents
+  413  cat>> pad.md
+  414  ../
+  415  cd Desktop
+  416  cd recruit
+  417  mkdir
+  418  mkdir work
+  419  ls
+  420  cp pad.md copy_pad.md
+  421  cp pad.md cd work
+  422  pwd
+  423  ~
+  424  cd Documents
+  425  cp pad.md copy_pad.md
+  426  mv copy_pad.md work/
+  427  ~
+  428  ls
+  429  cd
+  430  cd work
+  431  rm work
+  432  cd Documents
+  433  ls
+  434  mv pad.md work/
+  435  locate wil
+  436  locate wil -n 10
+  437  locate wil -n 1
+  438  claer
+  439  clear
+  440  pwd
+  441  locate pad.md -n 1
+  442  mv copy_pad.md Desktop/
+  443  cd wil
+  444  ls
+  445  cd task_2/\\nls
+  446  ls
+  447  cd wil
+  448  cd task_2
+  449  ls
+  450  ../
+  451  cd inner
+  452  ls
+  453  pwd
+  454  ../
+  455  ls
+  456  cd Desktop
+  457  ls
+  458  clear
+  459  find pad.md -n 1
+  460  find pad.md 
+  461  ../
+  462  find pad.md
+  463  pwd
+  464  ls
+  465  cd work
+  466  ls
+  467  clear
+  468  ../
+  469  locate umuzi
+  470  locate umuzi -n 1
+  471  locate search_results
+  472  locate search_results.md
+  473  c;ear
+  474  clear
+  475  cd work
+  476  ls
+  477  ../
+  478  locate pad_copy.,d
+  479  locate pad_copy.md
+  480  clear
+  481  ls
+  482  cd workspace
+  483  ls
+  484  ../
+  485  cd Documents
+  486  ls
+  487  ../
+  488  cd word
+  489  cd work
+  490  ls
+  491  cd Documents
+  492  ../
+  493  cd Documents
+  494  mv copy_pad.md work/
+  495  sudo mv copy_pad.md work/
+  496  cd-
+  497  cd -
+  498  ls
+  499  cd +
+  500  cd Documents
+  501  ls
+  502  cp copy_pad.md pad_copy.md
+  503  ls
+  504  rm copy_pad.md
+  505  ls
+  506  cd Desktop
+  507  ../
+  508  cd Desktop
+  509  ls
+  510  touch work_2
+  511  ls
+  512  mv pad_copy.md work_2
+  513  ../
+  514  locate pad_copy.md
+  515  ls
+  516  cd Documents
+  517  ls
+  518  mv pad_copy.md Desktop/work
+  519  mv pad_copy.md Desktop/
+  520  mv -rf pad_copy.md desktop/
+  521  ~
+  522  find pdf
+  523  find ~ *.pdf
+  524  clear
+  525  find .-type f -iname '*.pdf\n\n\n\n
+  526  find ~ -name \*.pdf
+  527  find ~ -name \*.pdf -n 1
+  528  find ~*\.pdf
+  529  find _iname ~*\.pdf
+  530  find ~ -iname * \.pdf
+  531  find ~ -name *\.pdf
+  532  clear
+  533  find ~ -name \*.pdf
+  534  apt terminator
+  535  apt search terminator
+  536  kill terminal
+  537  killall
+  538  sodo apt update
+  539  sudo apt update
+  540  sudo apt upgrade -y
+  541  sudo apt update && sudo apt upgrade -y
+  542  sudo apt-get install gnome-shell-pomodoro
+  543  sudo dpkg
+  544  sudo apt-get install gnome-shell-pomodoro
+  545  ^[[200~git clone -b gnome-3.22 https://github.com/codito/gnome-pomodoro.git\~
+  546  cd gnome-pomodoro
+  547  git clone -b gnome-3.22 https://github.com/codito/gnome-pomodoro.git
+  548  npm run deploy
+  549  nvm install
+  550  install
+  551  pwd
+  552  ls
+  553  mkdir Linux Challenges
+  554  cd
+  555  ls
+  556  cd Linux challenges
+  557  clear
+  558  rm linux
+  559  mkdir Linux_Challenges
+  560  ls
+  561  rm -r Linux
+  562  ls
+  563  cd Linux_Challenges
+  564  touch Tasks.txt
+  565  ls
+  566  cd ..
+  567  pwd
+  568  ls
+  569  cd workspace
+  570  ls
+  571  cp READ.md README.md
+  572  ls
+  573  mv read.md/tmp
+  574  mv tmp/READ.md
+  575  mv --help
+  576  clear
+  577  ls
+  578  mv READ.md tmp
+  579  ls
+  580  mv tmp something
+  581  ls
+  582  mv /tmp ./something
+  583  mv /something ./tmp
+  584  mv something ./tmp
+  585  ls
+  586  mv README.md tem/
+  587  mv README.md tmp/
+  588  mv README.md /tmp
+  589  ls
+  590  cd tmp
+  591  open tmp
+  592  open CHANGELOG.md
+  593  cat umuZi.md recruiTs.md cohoRt.md
+  594  cat > umuZi.md recuriTs.md cohoRt.md 
+  595  ls
+  596  cat >> wilson.txt
+  597  cat wilson.txt
+  598  pwd
+  599  ls
+  600  cat tmp wilson.txt
+  601  cat > tmp wilson
+  602  cat > tmp wilson.txt
+  603  ls
+  604  cat tmp
+  605  cat >> tmp
+  606  pwd
+  607  cd workspace
+  608  ls
+  609  cat tmp
+  610  lcoate umuzi
+  611  lcoate umuzi.md
+  612  locate umuzi.md
+  613  cd ../
+  614  ls
+  615  Cd Documents
+  616  cd Documents
+  617  ls
+  618  locate exercise.md
+  619  ls
+  620  ../
+  621  ls
+  622  cd Templates
+  623  ls
+  624  ../
+  625  ls\\nkill
+  626  ~
+  627  ls
+  628  cd workspace
+  629  ls
+  630  locate wilson.txt > new.txt
+  631  ls
+  632  cat new.txt
+  633  cat wilson.txt
+  634  cat wilson.md 
+  635  cat wilson.text
+  636  cat wilson.txt
+  637  ~
+  638  locate updatedb
+  639  cd -
+  640  locate pad_copy.md
+  641  cd Documents
+  642  cd ../
+  643  ls
+  644  cd Documents
+  645  ls
+  646  cd Desktop
+  647  cd ../
+  648  cd Desktop
+  649  cd - 
+  650  find ~ /* pdf
+  651  nano my_bio.md
+  652  locate umuzi > search_results.md
+  653  cat search_results.md
+  654  cat umuzi
+  655  clear
+  656  locate exercise.md
+  657  ls
+  658  cd tmp
+  659  nano man
+  660  nano test.txt
+  661  cat test.txt
+  662  nano test.txt
+  663  cat test.txt
+  664  nano test.txt
+  665  nano file
+  666  cat file
+  667  touch abcd.md
+  668  sudo mv abcd.md /tmp
+  669  ls /tmp
+  670  sudo rm /tmp/abcd.md
+  671  ls /tmp
+  672  touch wil.md
+  673  sudo mv wil.md /tmp
+  674  ls
+  675  ls /tmp
+  676  sudo rm /tmp/wil.md
+  677  ls /tmp
+  678  cd `
+  679  cd ~
+  680  cd -
+  681  clea
+  682  clear
+  683  find ./ -type -name *.pdf
+  684  find ./ ~ -name *.pdf
+  685  find  ~ -name /.*.pdf
+  686  find ./ ~ -name "*.pdf"
+  687  clear
+  688  find ~ -name ./ "*.pdf"
+  689  find man
+  690  find --help
+  691  find ./ ~ -name "*.pdf"
+  692  lear
+  693  clear
+  694  find ./ ~ -name "*.pdf"
+  695  find ./ ~ -name -n 5 "*.pdf"
+  696  find ./ ~ -name -5 "*.pdf"
+  697  find - 5 ./ ~ -name  "*.pdf"
+  698  find ./ ~ - 2 -name  "*.pdf"
+  699  find ./ ~ -name  "*.pdf"
+  700  clear
+  701  find ./ ~ -name "*.pdf"
+  702  clear
+  703  pwd
+  704  ls
+  705  find ./ ~ -name "*.pdf"
+  706  find ./ ~ -name "*.pdf" > Wil/
+  707  find ./ ~ -name "*.pdf" > wil/
+  708  find ./ ~ -name "*.pdf" > wil
+  709  find ./ ~ -name "*.pdf" >> wil
+  710  clear
+  711  find ./ wil -name *.pdf
+  712  find ./ wil -name *.txt
+  713  find ./ ~ -name *.txt
+  714  find ./ ~ -name *.pdf
+  715  find ./ ~ -name "*.pdf"
+  716  clear
+  717  touch PDF.txt
+  718  ls
+  719  find ./ ~ -name "*.pdf" > PDF.txt
+  720  cat PDF.txt
+  721  clear
+  722  updatedb
+  723  mlocate.db
+  724  ls
+  725  locate updatedb
+  726  find / -mtime -50
+  727  find mtime - 1
+  728  find mtime -1
+  729  find / -mtimee -1
+  730  find / -mtime -1
+  731  clear
+  732  find / -mtime 1
+  733  sudo find ./ ~ -name "*.pdf"
+  734  sudo find ./ ~ -name "*.pdf" >> wil
+  735  find / -mmin - 60
+  736  find / -mmin -60
+  737  clear
+  738  sudo apt install git-all
+  739  sudo apt-get install install-info
+  740  tar -zxf git-2.0.0.tar.gz
+  741  cd git-2.0.0
+  742  get clone git:??git.kernal.org/pub/scm/git/git.git
+  743  get clone git://git.kernal.org/pub/scm/git/git.git
+  744  git clone git://git.kernal.org/pub/scm/git/git.git
+  745  git clone git://git.kernel.org/pub/scm/git/git.git
+  746  git config --list
+  747  git config --global user.name "Wil"
+  748  git config --global user.email ratalaw2@gmail.com
+  749  git config --list
+  750  clear
+  751  -h
+  752  h
+  753  git -h
+  754  git --h
+  755  git add --h
+  756  ckear
+  757  clear
+  758  mkdir git-basic-exercises
+  759  cd
+  760  ls
+  761  cd git-basic-exercises
+  762  ls
+  763  ls -a
+  764  git init
+  765  ls -a
+  766  git status
+  767  touch README.md
+  768  ls -a
+  769  git log
+  770  git add README.md
+  771  git status
+  772  git rm --cached <README.md>
+  773  git rm --cached <README.md>..
+  774  git rm --cached <file>..
+  775  git rm --cached <README.md>
+  776  git rm --cached <README.md>..
+  777  "git rm --cached <README.md>.."
+  778  "git rm --cached <file>.."
+  779  git rm --cached <file>..
+  780  git rm --cached <file>
+  781  git rm --cached <file>\n
+  782  git rm --cached <README.md>\n
+  783  git rm --cached <README.md>..
+  784  ...
+  785  cd -
+  786  git rm --cached <README.md>..
+  787  git status
+  788  find ./ ~ -name "*.pdf"
+  789  find ./ ~ -name "*.pdf" > pdf
+  790  ls
+  791  cat pdf
+  792  find ./ ~ -name "*.pdf" > pdf.md
+  793  cat pdf .md
+  794  clear
+  795  cat pdf.md
+  796  clear
+  797  find / -mmin -1440
+  798  clear
+  799  find / -mmin -60
+  800  git rm --cached <new file>..
+  801  git commit -m "intial commit"
+  802  git log
+  803  nano README.md
+  804  cat README.md
+  805  git status
+  806  git add <file>...
+  807  git add <README.md>...
+  808  git status
+  809  git stats
+  810  git status
+  811  git add README.md...
+  812  git add README.md
+  813  git status
+  814  sudo add-apt-repositoryppa:atareao
+  815  sudo add-apt-repository ppa/atareao
+  816  sudo add-apt-repository ppaatareao/atareao
+  817  ls
+  818  clear
+  819  sodu apt-get update
+  820  sudo apt-get update
+  821  sudo apt-get install pomodoro-indicator
+  822  clear
+  823  git status
+  824  git int
+  825  ls
+  826  cd git-basic-exercises
+  827  git stus
+  828  git status
+  829  -rf n
+  830  rm -rf n
+  831  git status
+  832  cat README.md
+  833  git status
+  834  git reset Head README.md
+  835  git reset Head --README.md
+  836  clear
+  837  git commit -m  " second commit"
+  838  nano README.md
+  839  git commit -m "third commit"
+  840  git add README.md
+  841  git commit -m README.md
+  842  git log
+  843  git status
+  844  nano README.md
+  845  git status
+  846  git add
+  847  git add README.md
+  848  ls -a
+  849  git commit -m "third commit 2.0"
+  850  git status
+  851  git log
+  852  rm -rf ^[[200~72b06bace8dcc5fd23b012e62efcf1c0b5de412b~
+  853  git log
+  854  cat README.md
+  855  git checkout master
+  856  cat README.md
+  857  clear
+  858  git branch
+  859  milkshake-flavours
+  860  git branch milkshake-flavours
+  861  git branch
+  862  git checkout master
+  863  git checkout milkshake-flavours
+  864  nano milkshake-flavours
+  865  git status
+  866  git add milkshake-flavours "added initial flavours"
+  867  git add "added new flavours"
+  868  rm -rf milkshake-flavours
+  869  git status
+  870  nano milkshakes.md
+  871  git status
+  872  git add milkshakes.md "add initial  flavours"
+  873  git add milkshakes.md 'add initial  flavours'
+  874  git add milkshakes.md 'added initial  flavours"\nclear
+  875  cat milkshakes.md
+  876  git status
+  877  git add milkshakes.md "add initial  flavours"
+  878  git add -m "add initial  flavours"
+  879  git add -m  milkshakes.md "add initial  flavours"
+  880  git commit -m  "add initial  flavours"
+  881  git branch
+  882  git commit -m  "added initial  flavours"
+  883  git add milkshakes.md
+  884  git status
+  885  git commit -m  "added initial  flavours"
+  886  git status
+  887  clear
+  888  git log
+  889  checkout master
+  890  git checkout master
+  891  git status
+  892  git branch history
+  893  git checkout history
+  894  git log
+  895  git checkout milkshake
+  896  git checkout milkshakes
+  897  git checkout milkshake-flavours
+  898  git checkout history
+  899  git log
